@@ -14,6 +14,9 @@ if not (vim.uv or vim.loop).fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
+vim.opt.spelllang = "en_us"
+vim.opt.spell = true
+
 require("lazy").setup({
   spec = {
     -- add LazyVim and import its plugins

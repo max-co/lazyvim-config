@@ -13,3 +13,8 @@ grule
 goroutine
 bool
 io
+memberlist
+amd64
+arm64
+github
+goabu

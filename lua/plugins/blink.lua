@@ -6,5 +6,8 @@ return {
   ---@type blink.cmp.Config
   opts = {
     keymap = { preset = "super-tab" },
+    snippets = {
+      preset = "luasnip",
+    },
   },
 }

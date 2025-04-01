@@ -1,0 +1,10 @@
+{
+"SPDXA": {
+        "prefix": "spdxa",
+        "description": "SPDX Apache-2.0 header",
+        "body": [
+            "// Copyright ${CURRENT_YEAR} ${1:Author}",
+            "// SPDX-License-Identifier: Apache-2.0"
+        ]
+    }
+}

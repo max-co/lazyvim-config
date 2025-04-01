@@ -1,0 +1,16 @@
+{
+    "name": "max-co-snippets",
+    "contributes": {
+        "snippets": [
+            {
+                "language": [
+                    "java",
+                    "go",
+                    "c",
+                    "php"
+                ],
+                "path": "./license/spdx.json"
+            }
+        ]
+    }
+}
